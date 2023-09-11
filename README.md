@@ -8,7 +8,7 @@ Your client is a large MNC and they have 15 broad verticals across the organisat
 - At the end of the program, based on various factors such as training performance, an employee gets the promotion.
 
 
-### Data Description
+### Data Description:
 
 | Variable              | Definition                                                     |
 |-----------------------|----------------------------------------------------------------|
